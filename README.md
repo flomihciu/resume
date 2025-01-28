@@ -1,5 +1,4 @@
-i-
-#Florin Ciuperciuc
+Florin Ciuperciuc
 Hello everyone, I'm Florin but go by Flo. I am an aspiring DevOps engineer.
 
 <div id="webaddress">
